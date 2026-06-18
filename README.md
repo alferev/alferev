@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Andrei 👋
+🤖 Passionate about Artificial Intelligence, Space Exploration, and Robotics
+🚀 Long-term goal: AI Engineer at NASA JPL
+🌍 Based in Southern California
 
-<!--
-**alferev/alferev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧭 My Journey
+I'm starting from zero and building toward a career in AI applied to space and robotics.
+Currently completing the Machine Learning & AI Certificate at Foothill College.
 
-Here are some ideas to get you started:
+Roadmap:
+ Enrolled at Foothill College — Summer 2026
+ C S 3A — Python Programming (in progress)
+ C S 8A — Introduction to Data Science
+ C S 11A — Introduction to Artificial Intelligence
+ C S 12A — Introduction to Machine Learning
+ Transfer to UC/CSU — AI/CS Program
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Interests
+🌌 AI applied to Astrophysics & Space Data
+🤖 Reinforcement Learning for Robotics
+🛸 Autonomous Systems & Navigation
+🌍 Open NASA datasets & Space Science
+
+📫 Contact
+📧 Reach me via GitHub
+🎥 YouTube: @ZeroPoint-c1w
